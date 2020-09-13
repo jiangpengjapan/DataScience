@@ -1,3 +1,3 @@
 # DataScience
-Coursera Data Science practise
-It is a markdown file in this respository.
+<b>Coursera Data Science practise</b><br/>
+<i>It is a markdown file in this respository.</i>
